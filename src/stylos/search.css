@@ -1,0 +1,9 @@
+.buscador input{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+   
+}

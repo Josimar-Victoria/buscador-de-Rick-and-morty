@@ -1,0 +1,6 @@
+.item img{
+    align-items: center;
+    border-radius: 2%;
+    display: flex;
+    margin: 10px  ;
+}
